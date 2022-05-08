@@ -8,13 +8,6 @@ It will then tell you if the selected team won on the the given date as well was
 
 </p>
 
-<p align="center"
-
-![alttext](https://github.com/sd2wiebe/GUI_tkinter_app/blob/main/GUI0.png)
-
-</p>
-<p align="center"
-
 ![alttext](https://github.com/sd2wiebe/GUI_tkinter_app/blob/main/GUI1.png)
 
 </p>
