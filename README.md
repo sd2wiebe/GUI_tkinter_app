@@ -1,7 +1,9 @@
 # GUI_tkinter_app
 
-This App takes user input for: sport type (baseball or hockey), which team team, and the date.
-It then tells you if the selected team won or lost that day, and the score.
+This little app will tell you the results for any NHL or MLB team on any given day. 
+The code uses beautiful soup to acquire the results in real time for any date via two reputable websites (hockey-reference.com, baseball-reference.com).
+Thus you can look up the leafs score for a day in 1967, or yesterday.
+
 <p align="center"
 
 ![alttext](https://github.com/sd2wiebe/GUI_tkinter_app/blob/main/GUI.png)
